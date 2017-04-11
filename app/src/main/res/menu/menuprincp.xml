@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/reg_user"
+        android:title="registrar user"/>
+    <item android:id="@+id/reg_food"
+        android:title="regitrar food" />
+    <item android:id="@+id/list_user"
+        android:title="listar usuarios" />
+    <item android:id="@+id/reg_pedido"
+        android:title="realizar pedido" />
+
+</menu>

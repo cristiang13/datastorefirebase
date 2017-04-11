@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StoreCloud</string>
+    <string name="title_activity_list_user">List_userActivity</string>
+</resources>
